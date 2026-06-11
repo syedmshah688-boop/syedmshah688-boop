@@ -1,15 +1,15 @@
-# 🛡️ AWS CLOUD SECURITY ENGINEER // JOB-READY PORTFOLIO
+# 🛡️ AWS CLOUD SECURITY ENGINEER
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║        AWS CLOUD SECURITY ENGINEERING PORTFOLIO (v2.0)        ║
-║                 SOC INSPIRED ENGINEERING VIEW                 ║
+║        AWS CLOUD SECURITY ENGINEERING PORTFOLIO (v2.0)         ║ 
+║                 SOC INSPIRED ENGINEERING VIEW                  ║
 ╠════════════════════════════════════════════════════════════════╣
-║ OPERATOR   : Cloud Security Engineer                          ║
-║ DOMAIN     : AWS Cloud Security / SOC Operations              ║
-║ FOCUS      : Defensive Security Engineering                   ║
-║ LEVEL      : JOB-READY (INTERNSHIP / JUNIOR ROLE)            ║
-║ STATUS     : ACTIVE DEVELOPMENT + PRACTICE                   ║
+║ OPERATOR   : Cloud Security Engineer                           ║
+║ DOMAIN     : AWS Cloud Security / SOC Operations               ║
+║ FOCUS      : Defensive Security Engineering                    ║
+║ LEVEL      : JOB-READY (INTERNSHIP / JUNIOR ROLE)              ║
+║ STATUS     : ACTIVE DEVELOPMENT + PRACTICE                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
