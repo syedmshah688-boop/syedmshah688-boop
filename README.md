@@ -1,100 +1,101 @@
-# [ AWS CLOUD SECURITY OPERATIONS CENTER ]
+# 🛡️ AWS SECURITY OPERATIONS CENTER // GUI DASHBOARD
 
 ```
-█████████████████████████████████████████████████
-           AWS SOC DASHBOARD // DARK MODE
-█████████████████████████████████████████████████
+╔════════════════════════════════════════════════════╗
+║        CLOUD SECURITY COMMAND CENTER              ║
+║             SOC DASHBOARD (GUI MODE)             ║
+╚════════════════════════════════════════════════════╝
 
-USER      : Cloud Security Engineer
-ROLE      : SOC Analyst (AWS Security)
-STATUS    : ACTIVE MONITORING
-MODE      : DARK CONSOLE INTERFACE
-```
-
-## SYSTEM BOOT
-Initializing security services...
-- IAM Engine ............. ONLINE
-- CloudTrail Logging ..... STREAMING
-- CloudWatch Monitoring ... ACTIVE
-- Detection Layer ........ ARMED
-
-```
-[OK] Identity layer secured
-[OK] Logging pipeline active
-[OK] Monitoring system stable
-[OK] Response engine ready
+OPERATOR   : Cloud Security Engineer
+PLATFORM   : AWS Security Environment
+STATUS     : LIVE MONITORING ACTIVE
+MODE       : ADVANCED SOC INTERFACE
 ```
 
 ---
 
-## SECURITY METRICS
+## 🖥️ DASHBOARD OVERVIEW
 
-AUTHENTICATION:
-████████████░ 94% STABLE
+┌──────────────────────────────┐   ┌──────────────────────────────┐
+│ 🔐 IDENTITY (IAM)            │   │ 📡 THREAT MONITORING        │
+│ Auth Strength : 96%          │   │ CloudTrail : ACTIVE          │
+│ MFA Status    : ENABLED      │   │ Anomaly Detection : ON       │
+│ Roles Health  : OPTIMIZED    │   │ Alerts : LIVE                │
+└──────────────────────────────┘   └──────────────────────────────┘
 
-IAM POLICIES:
-███████████░░ 90% CONTROLLED
-
-ACCESS CONTROL:
-████████████░ 92% SECURE
-
-ANOMALY DETECTION:
-██████████░░░ 86% MONITORING
-
----
-
-## AWS ARCHITECTURE FLOW
-
-[ Identity Layer ]
-      ↓
-[ IAM Policies ]
-      ↓
-[ CloudTrail Logs ]
-      ↓
-[ CloudWatch Monitoring ]
-      ↓
-[ Incident Response System ]
+┌──────────────────────────────┐   ┌──────────────────────────────┐
+│ 📊 OBSERVABILITY             │   │ ⚙️ RESPONSE ENGINE          │
+│ CloudWatch   : ONLINE        │   │ Auto Response : ENABLED      │
+│ Logs Stream   : STABLE       │   │ Incident Handling : ACTIVE   │
+│ Metrics       : REAL TIME     │   │ Security State : PROTECTED   │
+└──────────────────────────────┘   └──────────────────────────────┘
 
 ---
 
-## SECURITY MODULES
-
-- Password Strength Analyzer :: risk scoring engine
-- SecureAuth System :: authentication framework
-- File Integrity Monitor :: change detection system
-- Network Port Scanner :: network visibility tool
-
----
-
-## LIVE LOG STREAM
+## 🌐 SECURITY ARCHITECTURE FLOW
 
 ```
-[00:01] AUTH      :: session verified
-[00:03] CLOUDTRAIL:: API call detected
-[00:06] ALERT     :: unusual login blocked
-[00:09] CLOUDWATCH:: CPU spike detected
-[00:12] SCAN      :: open port identified
-[00:15] INTEGRITY :: system check passed
+User Request
+     ↓
+IAM Authentication
+     ↓
+CloudTrail Logging
+     ↓
+CloudWatch Monitoring
+     ↓
+Security Analysis & Response
 ```
 
 ---
 
-## TERMINAL
+## 🧩 SECURITY MODULES
+
+- Password Strength Analyzer → password risk evaluation
+- SecureAuth System → authentication and MFA system
+- File Integrity Monitor → file change detection
+- Network Port Scanner → network exposure analysis
+
+---
+
+## 📡 LIVE TELEMETRY
 
 ```
-root@soc:~# start_console
-[+] loading IAM service
-[+] syncing CloudTrail logs
-[+] activating CloudWatch
-[+] starting detection engine
-
-STATUS: SYSTEM ONLINE
-DEFENSE: ACTIVE
+[00:01] IAM CHECK      :: identity verified
+[00:03] CLOUDTRAIL     :: API activity recorded
+[00:05] ALERT         :: suspicious login blocked
+[00:07] CLOUDWATCH    :: system metric spike detected
+[00:09] SCANNER       :: open port detected
+[00:12] RESPONSE      :: mitigation applied
 ```
 
 ---
 
-## OBJECTIVE
-Maintain AWS cloud security posture using SOC monitoring, logging, and incident detection practices.
+## 🧠 TERMINAL INTERFACE
+
+```
+root@aws-soc:~# launch_console
+[+] IAM module loaded
+[+] CloudTrail connected
+[+] CloudWatch streaming
+[+] Monitoring engine active
+
+STATUS: SYSTEM OPERATIONAL
+```
+
+---
+
+## 🎯 OBJECTIVE
+Demonstrate AWS security monitoring skills using SOC-style visualization, identity protection, and incident response workflows.
+
+---
+
+## 🛡️ FINAL STATUS
+
+Security Posture : Hardened
+Monitoring Mode  : Continuous
+System State     : Stable
+Profile Ready    : Yes
+
+---
 
 END OF DASHBOARD
